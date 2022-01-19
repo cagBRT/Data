@@ -7,7 +7,7 @@ Order of courses:
 
 >Imbalanced Data - 2 hours
 
->Sampling - 2 hours
+>Sampling - 4 hours
 
 >Cost Sensitive - 3 hours
 
